@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Plan 18 · Cuaderno</title>
+<meta name="theme-color" content="#F5F2E9">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Plan 18">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="app.css?v=e26a733d">
+</head>
+<body data-theme="papel">
+<header id="top">
+  <div class="brand"><span class="mono">Plan 18 · Cuaderno</span><span class="mono faint" id="hdrDate"></span></div>
+  <button id="themeBtn" class="chip small" aria-label="Cambiar tema">Papel</button>
+</header>
+<main id="view"></main>
+<div id="rest" class="rest hidden" role="timer">
+  <div><span class="mono faint">Descanso</span> <b id="restT">0:00</b> <span id="restNext" class="faint"></span></div>
+  <div class="rest-btns"><button data-r="-15" class="chip small">−15</button><button data-r="15" class="chip small">+15</button><button data-r="skip" class="chip small ink">Saltar</button></div>
+</div>
+<div id="toast" class="toast hidden"></div>
+<nav id="nav">
+  <button data-go="hoy" class="on"><span class="ic">◉</span>Hoy</button>
+  <button data-go="historial"><span class="ic">≡</span>Historial</button>
+  <button data-go="plan"><span class="ic">▤</span>Plan</button>
+</nav>
+<div id="sheet" class="sheet hidden"></div>
+<script src="app.js?v=e26a733d"></script>
+</body>
+</html>

@@ -1,0 +1,1210 @@
+{
+"version": "2026-11-24",
+"nombre": "Rutina 3 días · versión final 24/11/2026",
+"semanaDescarga": 8,
+"ejercicios": {
+"sentadilla": {
+"nombre": "Sentadilla trasera",
+"corto": "sentadilla",
+"paso": 2.5,
+"inc": 5,
+"pierna": true,
+"basico": true,
+"media": {
+"tipo": "video",
+"src": "media/sentadilla.mp4",
+"poster": "media/sentadilla.jpg",
+"credito": {
+"fuente": "Wikimedia Commons",
+"autor": "Your Move",
+"licencia": "CC BY-SA 4.0",
+"licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+"url": "https://commons.wikimedia.org/wiki/File:Barbell_back_squat_exercise_demonstration.webm",
+"titulo": "Barbell back squat exercise demonstration.webm",
+"cambios": "Tramo de 6 s, 270×480 px, H.264 sin audio"
+},
+"nota": null
+},
+"tec": {
+"claves": [
+"Barra apoyada en el trapecio, no en el cuello.",
+"Pies al ancho de hombros, punta levemente afuera.",
+"Rodillas siguen la línea del pie, no se van adentro.",
+"Bajá hasta cadera por debajo de rodilla si el rango te lo permite."
+],
+"errores": [
+"Levantar la cadera primero al subir.",
+"Talones que se despegan del piso."
+],
+"tempo": "3-0-1",
+"respiracion": "Inhalás arriba, trabás el aire abajo, exhalás al pasar el punto difícil.",
+"musculos": [
+"Cuádriceps 46%",
+"Glúteo mayor 26%",
+"Aductores 14%",
+"Erectores lumbares 14%"
+]
+},
+"id": "sentadilla",
+"tipo": "reps"
+},
+"banca": {
+"nombre": "Press banca",
+"corto": "banca",
+"paso": 2.5,
+"inc": 2.5,
+"basico": true,
+"media": {
+"tipo": "video",
+"src": "media/banca.mp4",
+"poster": "media/banca.jpg",
+"credito": {
+"fuente": "Wikimedia Commons",
+"autor": "Your Move",
+"licencia": "CC BY-SA 4.0",
+"licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+"url": "https://commons.wikimedia.org/wiki/File:Barbell_bench_press_exercise_demonstration.webm",
+"titulo": "Barbell bench press exercise demonstration.webm",
+"cambios": "Tramo de 6 s, 270×480 px, H.264 sin audio"
+},
+"nota": null
+},
+"tec": {
+"claves": [
+"Omóplatos juntos y hundidos contra el banco, pecho alto.",
+"Pies firmes en el piso, leve arco lumbar natural.",
+"Bajá la barra a la línea del pezón, codos a unos 45°.",
+"Empujá en diagonal, hacia arriba y levemente atrás."
+],
+"errores": [
+"Rebotar la barra en el pecho.",
+"Codos abiertos a 90°, castiga el hombro."
+],
+"tempo": "3-0-1",
+"respiracion": "Inhalás y trabás el aire al bajar; exhalás pasado el punto difícil.",
+"musculos": [
+"Pectoral mayor 60%",
+"Deltoides anterior 22%",
+"Tríceps 18%"
+]
+},
+"id": "banca",
+"tipo": "reps"
+},
+"remo": {
+"nombre": "Remo con barra",
+"corto": "remo",
+"paso": 2.5,
+"inc": 2.5,
+"media": {
+"tipo": "video",
+"src": "media/remo.mp4",
+"poster": "media/remo.jpg",
+"credito": {
+"fuente": "Wikimedia Commons",
+"autor": "FitnessScape",
+"licencia": "CC BY 3.0",
+"licenciaUrl": "https://creativecommons.org/licenses/by/3.0/",
+"url": "https://commons.wikimedia.org/wiki/File:Bent-over_row_-_exercise_demonstration_video.webm",
+"titulo": "Bent-over row - exercise demonstration video.webm",
+"cambios": "Recorte 4:5 (sin el cartel del título), tramo de 4,7 s, 288×360 px, H.264 sin audio"
+},
+"nota": null
+},
+"tec": {
+"claves": [
+"Torso entre 30° y 45°, espalda neutra.",
+"Tirá hacia el ombligo, no al pecho.",
+"Codos pegados al cuerpo, apretá la escápula al final.",
+"Bajá controlado sin dejar caer el peso."
+],
+"errores": [
+"Levantar el torso en cada repetición.",
+"Tirar con los brazos y no con la espalda."
+],
+"tempo": "2-1-2",
+"respiracion": "Exhalás al tirar.",
+"musculos": [
+"Dorsal ancho 42%",
+"Trapecio medio y romboides 30%",
+"Bíceps 16%",
+"Erectores lumbares 12%"
+]
+},
+"id": "remo",
+"tipo": "reps"
+},
+"pajaros": {
+"nombre": "Pájaros (deltoides posterior)",
+"corto": "pájaros",
+"paso": 1,
+"inc": 1,
+"media": {
+"tipo": "video",
+"src": "media/pajaros.mp4",
+"poster": "media/pajaros.jpg",
+"credito": {
+"fuente": "wger.de",
+"autor": "Goulart",
+"licencia": "CC BY-SA 4.0",
+"licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+"url": "https://wger.de/es/exercise/82/view/",
+"titulo": "Bent-over Lateral Raises (video 7)",
+"cambios": "Recorte 4:5, tramo de 6.5 s, 288×360 px, H.264 sin audio"
+},
+"nota": null
+},
+"tec": {
+"claves": [
+"Sentado en la punta del banco, torso inclinado sobre los muslos y quieto.",
+"Codos apenas flexionados y fijos.",
+"Abrí los brazos hacia los costados guiando con el codo.",
+"Pausa de 1 s arriba y bajá lento."
+],
+"errores": [
+"Subir los hombros a las orejas (entra el trapecio).",
+"Usar impulso del torso."
+],
+"tempo": "2-1-2",
+"respiracion": "Exhalás al abrir.",
+"musculos": [
+"Deltoides posterior 68%",
+"Romboides 20%",
+"Infraespinoso 12%"
+]
+},
+"id": "pajaros",
+"tipo": "reps"
+},
+"laterales": {
+"nombre": "Elevaciones laterales",
+"corto": "laterales",
+"paso": 1,
+"inc": 1,
+"media": {
+"tipo": "video",
+"src": "media/laterales.mp4",
+"poster": "media/laterales.jpg",
+"credito": {
+"fuente": "wger.de",
+"autor": "Goulart",
+"licencia": "CC BY-SA 4.0",
+"licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+"url": "https://wger.de/es/exercise/348/view/",
+"titulo": "Lateral Raises (video 6)",
+"cambios": "Recorte 4:5, tramo de 7 s, 288×360 px, H.264 sin audio"
+},
+"nota": null
+},
+"tec": {
+"claves": [
+"Codo apenas flexionado y fijo.",
+"Subí hasta la altura del hombro, no más.",
+"Guiá con el codo, no con la mano.",
+"Bajá en 3 segundos."
+],
+"errores": [
+"Usar impulso de cadera.",
+"Encoger el trapecio al subir."
+],
+"tempo": "2-1-3",
+"respiracion": "Exhalás al subir.",
+"musculos": [
+"Deltoides lateral 82%",
+"Trapecio superior 18%"
+]
+},
+"id": "laterales",
+"tipo": "reps"
+},
+"talones_pie": {
+"nombre": "Elevación de talones de pie",
+"corto": "talones de pie",
+"paso": 5,
+"inc": 5,
+"pierna": true,
+"media": {
+"tipo": "video",
+"src": "media/talones_pie.mp4",
+"poster": "media/talones_pie.jpg",
+"credito": {
+"fuente": "wger.de",
+"autor": "Goulart",
+"licencia": "CC BY-SA 4.0",
+"licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+"url": "https://wger.de/es/exercise/622/view/",
+"titulo": "Standing Calf Raises (video 14)",
+"cambios": "Recorte 4:5, tramo de 6 s, 288×360 px, H.264 sin audio"
+},
+"nota": null
+},
+"tec": {
+"claves": [
+"Rango completo: bajá bien el talón.",
+"Pausa de 1 segundo arriba en punta.",
+"Rodilla casi extendida y firme.",
+"Movimiento lento, sin rebote."
+],
+"errores": [
+"Rebotar con el tendón.",
+"Rango corto y peso excesivo."
+],
+"tempo": "2-1-2",
+"respiracion": "Exhalás al subir.",
+"musculos": [
+"Gemelos 74%",
+"Sóleo 26%"
+]
+},
+"id": "talones_pie",
+"tipo": "reps"
+},
+"nordico": {
+"nombre": "Curl nórdico",
+"corto": "nórdico",
+"tipo": "reps",
+"sinPeso": true,
+"pierna": true,
+"prevencion": true,
+"media": {
+"tipo": "fotos",
+"src": [
+"img/Natural_Glute_Ham_Raise_0.jpg",
+"img/Natural_Glute_Ham_Raise_1.jpg"
+],
+"credito": {
+"fuente": "free-exercise-db",
+"autor": "yuhonas/free-exercise-db",
+"licencia": "Unlicense (dominio público)",
+"licenciaUrl": "https://unlicense.org/",
+"url": "https://github.com/yuhonas/free-exercise-db",
+"titulo": "Natural Glute Ham Raise",
+"cambios": "Reducidas a 480 px"
+},
+"nota": "Foto de referencia: glute-ham raise natural (mismo patrón que el nórdico)."
+},
+"tec": {
+"claves": [
+"Rodillas en una colchoneta, tobillos bien trabados (compañero o apoyo).",
+"Cadera extendida: cuerpo recto de rodillas a cabeza.",
+"Bajá lo más lento posible (3–5 s) frenando con los isquios.",
+"Atajate con las manos y volvé ayudándote con un empujón."
+],
+"errores": [
+"Quebrar la cadera hacia atrás para acortar la palanca.",
+"Hacerlo el día antes de jugar."
+],
+"tempo": "5-0-X",
+"respiracion": "Exhalás lento durante la bajada.",
+"musculos": [
+"Isquiotibiales 80%",
+"Gemelos 10%",
+"Glúteo 10%"
+]
+},
+"id": "nordico"
+},
+"pallof": {
+"nombre": "Pallof press",
+"corto": "pallof",
+"paso": 2.5,
+"inc": 2.5,
+"porLado": true,
+"prevencion": true,
+"media": {
+"tipo": "fotos",
+"src": [
+"img/Pallof_Press_0.jpg",
+"img/Pallof_Press_1.jpg"
+],
+"credito": {
+"fuente": "free-exercise-db",
+"autor": "yuhonas/free-exercise-db",
+"licencia": "Unlicense (dominio público)",
+"licenciaUrl": "https://unlicense.org/",
+"url": "https://github.com/yuhonas/free-exercise-db",
+"titulo": "Pallof Press",
+"cambios": "Reducidas a 480 px"
+},
+"nota": null
+},
+"tec": {
+"claves": [
+"De costado a la polea, a la altura del pecho, pies al ancho de hombros.",
+"Manos al esternón, abdomen firme.",
+"Empujá las manos al frente sin dejar que el torso rote.",
+"Sostené 2 s con los brazos extendidos y volvé."
+],
+"errores": [
+"Rotar el torso hacia la polea.",
+"Arquear la zona lumbar."
+],
+"tempo": "1-2-1",
+"respiracion": "Exhalás al empujar.",
+"musculos": [
+"Oblicuos 50%",
+"Transverso abdominal 35%",
+"Glúteo medio 15%"
+]
+},
+"id": "pallof",
+"tipo": "reps"
+},
+"pmr": {
+"nombre": "Peso muerto rumano",
+"corto": "rumano",
+"paso": 2.5,
+"inc": 5,
+"pierna": true,
+"basico": true,
+"media": {
+"tipo": "video",
+"src": "media/pmr.mp4",
+"poster": "media/pmr.jpg",
+"credito": {
+"fuente": "wger.de",
+"autor": "Goulart",
+"licencia": "CC BY-SA 4.0",
+"licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+"url": "https://wger.de/es/exercise/507/view/",
+"titulo": "Romanian Deadlift (video 3)",
+"cambios": "Recorte 4:5, tramo de 7 s, 288×360 px, H.264 sin audio"
+},
+"nota": "En el video se hace con mancuernas; el patrón es el mismo que con barra."
+},
+"tec": {
+"claves": [
+"Rodillas casi fijas, el movimiento es de cadera.",
+"Barra rozando el muslo todo el recorrido.",
+"Bajá hasta sentir el isquiotibial, no más.",
+"Subí empujando la cadera adelante."
+],
+"errores": [
+"Convertirlo en sentadilla flexionando rodilla.",
+"Redondear la espalda buscando tocar el piso."
+],
+"tempo": "3-1-1",
+"respiracion": "Inhalás al bajar, exhalás al subir.",
+"musculos": [
+"Isquiotibiales 48%",
+"Glúteo mayor 30%",
+"Erectores lumbares 22%"
+]
+},
+"id": "pmr",
+"tipo": "reps"
+},
+"dominadas": {
+"nombre": "Dominadas",
+"corto": "dominadas",
+"paso": 2.5,
+"inc": 2.5,
+"lastre": true,
+"media": {
+"tipo": "video",
+"src": "media/dominadas.mp4",
+"poster": "media/dominadas.jpg",
+"credito": {
+"fuente": "wger.de",
+"autor": "Goulart",
+"licencia": "CC BY-SA 4.0",
+"licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+"url": "https://wger.de/es/exercise/475/view/",
+"titulo": "Pull-ups (video 71)",
+"cambios": "Recorte 4:5, tramo de 7 s, 288×360 px, H.264 sin audio"
+},
+"nota": null
+},
+"tec": {
+"claves": [
+"Colgate activo: primero bajá los omóplatos.",
+"Llevá los codos hacia los bolsillos.",
+"Pecho hacia la barra, mentón por encima.",
+"Bajá controlado hasta extender casi del todo."
+],
+"errores": [
+"Balanceo o kipping para completar reps.",
+"No bajar el rango completo."
+],
+"tempo": "2-1-2",
+"respiracion": "Exhalás al subir, inhalás al bajar.",
+"musculos": [
+"Dorsal ancho 52%",
+"Bíceps 22%",
+"Trapecio medio 16%",
+"Core 10%"
+]
+},
+"id": "dominadas",
+"tipo": "reps"
+},
+"militar": {
+"nombre": "Press militar de pie",
+"corto": "militar",
+"paso": 2.5,
+"inc": 2.5,
+"basico": true,
+"media": {
+"tipo": "video",
+"src": "media/militar.mp4",
+"poster": "media/militar.jpg",
+"credito": {
+"fuente": "Wikimedia Commons",
+"autor": "FitnessScape",
+"licencia": "CC BY 3.0",
+"licenciaUrl": "https://creativecommons.org/licenses/by/3.0/",
+"url": "https://commons.wikimedia.org/wiki/File:Shoulder_press_-_exercise_demonstration_video.webm",
+"titulo": "Shoulder press - exercise demonstration video.webm",
+"cambios": "Recorte 4:5 (sin el cartel del título), tramo de 6 s, 288×360 px, H.264 sin audio"
+},
+"nota": null
+},
+"tec": {
+"claves": [
+"Barra a la altura de la clavícula, codos apenas adelante.",
+"Glúteo y abdomen apretados, sin arquear.",
+"Pasá la cabeza hacia adelante cuando la barra sube.",
+"Terminá con la barra sobre la mitad del pie."
+],
+"errores": [
+"Arquear la lumbar para empujar.",
+"Empujar la barra hacia adelante en vez de arriba."
+],
+"tempo": "2-0-1",
+"respiracion": "Inhalás abajo, exhalás al pasar la cabeza.",
+"musculos": [
+"Deltoides anterior 48%",
+"Deltoides lateral 22%",
+"Tríceps 20%",
+"Core 10%"
+]
+},
+"id": "militar",
+"tipo": "reps"
+},
+"facepull": {
+"nombre": "Face pull",
+"corto": "face pull",
+"paso": 2.5,
+"inc": 2.5,
+"media": {
+"tipo": "video",
+"src": "media/facepull.mp4",
+"poster": "media/facepull.jpg",
+"credito": {
+"fuente": "wger.de",
+"autor": "Goulart",
+"licencia": "CC BY-SA 4.0",
+"licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+"url": "https://wger.de/es/exercise/222/view/",
+"titulo": "Facepull (video 79)",
+"cambios": "Recorte 4:5, tramo de 7 s, 288×360 px, H.264 sin audio"
+},
+"nota": null
+},
+"tec": {
+"claves": [
+"Polea a la altura de la cara.",
+"Tirá la cuerda hacia la frente separando las manos.",
+"Codos por encima de las muñecas.",
+"Pausa de 1 segundo y volvé lento."
+],
+"errores": [
+"Tirar hacia el pecho como un remo.",
+"Extender el cuello adelante."
+],
+"tempo": "2-1-2",
+"respiracion": "Exhalás al tirar.",
+"musculos": [
+"Deltoides posterior 50%",
+"Trapecio medio 28%",
+"Rotadores externos 22%"
+]
+},
+"id": "facepull",
+"tipo": "reps"
+},
+"remo_polea": {
+"nombre": "Remo en polea baja",
+"corto": "remo polea",
+"paso": 2.5,
+"inc": 2.5,
+"media": {
+"tipo": "video",
+"src": "media/remo_polea.mp4",
+"poster": "media/remo_polea.jpg",
+"credito": {
+"fuente": "wger.de",
+"autor": "Goulart",
+"licencia": "CC BY-SA 4.0",
+"licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+"url": "https://wger.de/es/exercise/512/view/",
+"titulo": "Rowing seated, narrow grip (video 1)",
+"cambios": "Recorte 4:5, tramo de 7 s, 288×360 px, H.264 sin audio"
+},
+"nota": null
+},
+"tec": {
+"claves": [
+"Rodillas apenas flexionadas, espalda erguida.",
+"Iniciá retrayendo los omóplatos.",
+"Llevá el agarre al abdomen bajo.",
+"Estirá adelante sin redondear la lumbar."
+],
+"errores": [
+"Mecer el torso adelante y atrás.",
+"Acortar el rango por exceso de peso."
+],
+"tempo": "2-1-2",
+"respiracion": "Exhalás al tirar.",
+"musculos": [
+"Dorsal ancho 40%",
+"Trapecio medio 30%",
+"Romboides 18%",
+"Bíceps 12%"
+]
+},
+"id": "remo_polea",
+"tipo": "reps"
+},
+"curlz": {
+"nombre": "Curl con barra Z",
+"corto": "curl Z",
+"paso": 2.5,
+"inc": 2.5,
+"media": {
+"tipo": "video",
+"src": "media/curlz.mp4",
+"poster": "media/curlz.jpg",
+"credito": {
+"fuente": "wger.de",
+"autor": "Goulart",
+"licencia": "CC BY-SA 4.0",
+"licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+"url": "https://wger.de/es/exercise/91/view/",
+"titulo": "Biceps Curls With Barbell (video 49)",
+"cambios": "Recorte 4:5, tramo de 6 s, 288×360 px, H.264 sin audio"
+},
+"nota": "En el video se usa barra recta; con barra Z el movimiento es igual."
+},
+"tec": {
+"claves": [
+"Codos pegados al costado, fijos.",
+"Subí sin mover el hombro adelante.",
+"Apretá arriba sin llegar a descargar.",
+"Bajá en 3 segundos hasta casi extender."
+],
+"errores": [
+"Balancear el torso.",
+"Abrir los codos hacia afuera."
+],
+"tempo": "2-1-3",
+"respiracion": "Exhalás al subir.",
+"musculos": [
+"Bíceps 78%",
+"Braquial 14%",
+"Antebrazo 8%"
+]
+},
+"id": "curlz",
+"tipo": "reps"
+},
+"copenhagen": {
+"nombre": "Copenhagen",
+"corto": "copenhagen",
+"tipo": "seg",
+"sinPeso": true,
+"porLado": true,
+"pierna": true,
+"prevencion": true,
+"media": {
+"tipo": "svg",
+"src": "img/copenhagen.svg",
+"credito": {
+"fuente": "Coach",
+"autor": "Ilustración esquemática propia",
+"licencia": "Propia",
+"licenciaUrl": "",
+"url": "",
+"titulo": "Copenhagen",
+"cambios": ""
+}
+},
+"tec": {
+"claves": [
+"Antebrazo en el piso, pierna de arriba sobre el banco (rodilla o tobillo).",
+"Subí la cadera hasta quedar en línea recta y sostené.",
+"Principiante: apoyá la rodilla en el banco, no el tobillo.",
+"Respirá; no aguantes el aire."
+],
+"errores": [
+"Dejar caer la cadera.",
+"Rotar el torso hacia el piso."
+],
+"tempo": "isométrico",
+"respiracion": "Respiración corta y continua.",
+"musculos": [
+"Aductores 70%",
+"Oblicuos 20%",
+"Glúteo medio 10%"
+]
+},
+"id": "copenhagen"
+},
+"prensa": {
+"nombre": "Prensa o hack",
+"corto": "prensa",
+"paso": 5,
+"inc": 5,
+"pierna": true,
+"media": {
+"tipo": "video",
+"src": "media/prensa.mp4",
+"poster": "media/prensa.jpg",
+"credito": {
+"fuente": "wger.de",
+"autor": "Goulart",
+"licencia": "CC BY-SA 4.0",
+"licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+"url": "https://wger.de/es/exercise/371/view/",
+"titulo": "Leg Press (video 44)",
+"cambios": "Recorte 4:5, tramo de 7 s, 288×360 px, H.264 sin audio"
+},
+"nota": null
+},
+"tec": {
+"claves": [
+"Pies al ancho de cadera, media plataforma.",
+"Bajá hasta 90° sin despegar la cola del asiento.",
+"Empujá con todo el pie, sobre todo el talón.",
+"No trabes las rodillas arriba."
+],
+"errores": [
+"Bajar tanto que la pelvis se enrolla.",
+"Poner las manos sobre las rodillas."
+],
+"tempo": "3-0-1",
+"respiracion": "Inhalás al bajar, exhalás al empujar.",
+"musculos": [
+"Cuádriceps 62%",
+"Glúteo mayor 24%",
+"Isquiotibiales 14%"
+]
+},
+"id": "prensa",
+"tipo": "reps"
+},
+"inclinado": {
+"nombre": "Press inclinado con mancuernas",
+"corto": "inclinado mancuernas",
+"paso": 2,
+"inc": 2,
+"media": {
+"tipo": "video",
+"src": "media/inclinado.mp4",
+"poster": "media/inclinado.jpg",
+"credito": {
+"fuente": "wger.de",
+"autor": "Goulart",
+"licencia": "CC BY-SA 4.0",
+"licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+"url": "https://wger.de/es/exercise/537/view/",
+"titulo": "Incline Bench Press - Dumbbell (video 24)",
+"cambios": "Recorte 4:5, tramo de 7 s, 288×360 px, H.264 sin audio"
+},
+"nota": null
+},
+"tec": {
+"claves": [
+"Banco entre 30° y 45°, no más.",
+"Mancuernas a la altura del pecho alto, muñecas firmes.",
+"Bajá hasta sentir estiramiento sin dolor en el hombro.",
+"Arriba no choques las mancuernas: dejá tensión."
+],
+"errores": [
+"Inclinar demasiado el banco y convertirlo en press de hombro.",
+"Bajar sin control buscando rango extra."
+],
+"tempo": "3-0-1",
+"respiracion": "Inhalás al bajar, exhalás al empujar.",
+"musculos": [
+"Pectoral superior 55%",
+"Deltoides anterior 28%",
+"Tríceps 17%"
+]
+},
+"id": "inclinado",
+"tipo": "reps"
+},
+"jalon": {
+"nombre": "Jalón neutro",
+"corto": "jalón neutro",
+"paso": 2.5,
+"inc": 2.5,
+"media": {
+"tipo": "video",
+"src": "media/jalon.mp4",
+"poster": "media/jalon.jpg",
+"credito": {
+"fuente": "Wikimedia Commons",
+"autor": "Your Move",
+"licencia": "CC BY-SA 4.0",
+"licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+"url": "https://commons.wikimedia.org/wiki/File:Lat_pulldown_exercise_demonstration.webm",
+"titulo": "Lat pulldown exercise demonstration.webm",
+"cambios": "Tramo de 6 s, 270×480 px, H.264 sin audio"
+},
+"nota": "En el video no se ve bien el agarre: vos usá el agarre neutro (palmas enfrentadas)."
+},
+"tec": {
+"claves": [
+"Muslos bien trabados bajo la almohadilla.",
+"Agarre neutro (palmas enfrentadas), torso apenas hacia atrás.",
+"Llevá el agarre al pecho alto tirando con los codos hacia abajo.",
+"Volvé arriba estirando del todo sin soltar la escápula."
+],
+"errores": [
+"Tirarse muy atrás con el torso.",
+"Tirar con los brazos en vez de con la espalda."
+],
+"tempo": "2-1-2",
+"respiracion": "Exhalás al bajar el agarre.",
+"musculos": [
+"Dorsal ancho 58%",
+"Bíceps 22%",
+"Trapecio medio 20%"
+]
+},
+"id": "jalon",
+"tipo": "reps"
+},
+"martillo": {
+"nombre": "Curl martillo",
+"corto": "martillo",
+"paso": 1,
+"inc": 1,
+"media": {
+"tipo": "video",
+"src": "media/martillo.mp4",
+"poster": "media/martillo.jpg",
+"credito": {
+"fuente": "wger.de",
+"autor": "Goulart",
+"licencia": "CC BY-SA 4.0",
+"licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+"url": "https://wger.de/es/exercise/272/view/",
+"titulo": "Hammer Curls (video 51)",
+"cambios": "Recorte 4:5, tramo de 7 s, 288×360 px, H.264 sin audio"
+},
+"nota": null
+},
+"tec": {
+"claves": [
+"Agarre neutro, palmas enfrentadas.",
+"Codo fijo al costado del cuerpo.",
+"Subí hasta la altura del hombro.",
+"Bajá controlado sin soltar la tensión."
+],
+"errores": [
+"Girar la muñeca a mitad del recorrido.",
+"Impulsar con la cadera."
+],
+"tempo": "2-1-3",
+"respiracion": "Exhalás al subir.",
+"musculos": [
+"Braquial 44%",
+"Bíceps 40%",
+"Antebrazo 16%"
+]
+},
+"id": "martillo",
+"tipo": "reps"
+},
+"triceps": {
+"nombre": "Extensión de tríceps en polea",
+"corto": "tríceps polea",
+"paso": 2.5,
+"inc": 2.5,
+"media": {
+"tipo": "fotos",
+"src": [
+"img/Triceps_Pushdown_0.jpg",
+"img/Triceps_Pushdown_1.jpg"
+],
+"credito": {
+"fuente": "free-exercise-db",
+"autor": "yuhonas/free-exercise-db",
+"licencia": "Unlicense (dominio público)",
+"licenciaUrl": "https://unlicense.org/",
+"url": "https://github.com/yuhonas/free-exercise-db",
+"titulo": "Triceps Pushdown",
+"cambios": "Reducidas a 480 px"
+},
+"nota": null
+},
+"tec": {
+"claves": [
+"Codos pegados al torso y quietos.",
+"Extendé completo y apretá 1 segundo.",
+"Volvé sólo hasta 90°, sin perder tensión.",
+"Torso apenas inclinado y firme."
+],
+"errores": [
+"Mover el hombro para ayudar.",
+"Inclinarse encima del peso."
+],
+"tempo": "2-1-2",
+"respiracion": "Exhalás al extender.",
+"musculos": [
+"Tríceps lateral 62%",
+"Tríceps largo 38%"
+]
+},
+"id": "triceps",
+"tipo": "reps"
+},
+"talones_sent": {
+"nombre": "Elevación de talones sentado",
+"corto": "talones sentado",
+"paso": 5,
+"inc": 5,
+"pierna": true,
+"media": {
+"tipo": "video",
+"src": "media/talones_sent.mp4",
+"poster": "media/talones_sent.jpg",
+"credito": {
+"fuente": "wger.de",
+"autor": "Goulart",
+"licencia": "CC BY-SA 4.0",
+"licenciaUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+"url": "https://wger.de/es/exercise/590/view/",
+"titulo": "Sitting Calf Raises (video 13)",
+"cambios": "Recorte 4:5, tramo de 7 s, 288×360 px, H.264 sin audio"
+},
+"nota": null
+},
+"tec": {
+"claves": [
+"Rodillas a 90° bajo el apoyo, puntas en el borde.",
+"Bajá el talón al máximo y estirá 1 s.",
+"Subí bien arriba y apretá 1 s.",
+"Lento, sin rebote."
+],
+"errores": [
+"Rebotar abajo.",
+"Rango corto con mucho peso."
+],
+"tempo": "2-1-2",
+"respiracion": "Exhalás al subir.",
+"musculos": [
+"Sóleo 70%",
+"Gemelos 30%"
+]
+},
+"id": "talones_sent",
+"tipo": "reps"
+}
+},
+"dias": [
+{
+"id": "d1",
+"nombre": "Día 1",
+"sub": "Fuerza",
+"dia": "vie",
+"desc": "Piernas pesadas. Dejá 48–72 h antes de un partido. Básicos a 1–2 RIR, nunca a la falla.",
+"items": [
+{
+"ex": "sentadilla",
+"series": 4,
+"rir": "1-2",
+"descanso": 150,
+"reps": [
+5,
+7
+]
+},
+{
+"ex": "banca",
+"series": 4,
+"rir": "1-2",
+"descanso": 150,
+"reps": [
+5,
+7
+]
+},
+{
+"ex": "remo",
+"series": 3,
+"rir": "1-2",
+"descanso": 120,
+"reps": [
+6,
+8
+]
+},
+{
+"ex": "pajaros",
+"series": 3,
+"rir": "0-1",
+"descanso": 60,
+"reps": [
+15,
+15
+]
+},
+{
+"ex": "laterales",
+"series": 3,
+"rir": "0-1",
+"descanso": 60,
+"reps": [
+12,
+15
+]
+},
+{
+"ex": "talones_pie",
+"series": 3,
+"rir": "0-1",
+"descanso": 60,
+"reps": [
+12,
+12
+]
+},
+{
+"ex": "nordico",
+"series": 2,
+"rir": null,
+"descanso": 90,
+"reps": [
+5,
+5
+],
+"nota": "2×5 las primeras 4 semanas; después 3×5 si no hay rigidez."
+},
+{
+"ex": "pallof",
+"series": 2,
+"rir": null,
+"descanso": 60,
+"reps": [
+10,
+10
+],
+"nota": "10 por lado."
+}
+]
+},
+{
+"id": "d2",
+"nombre": "Día 2",
+"sub": "Tirón y cadera",
+"dia": "lun",
+"desc": "Espalda, hombro posterior y cadera. Si al día siguiente jugás, rumano a 3 RIR.",
+"items": [
+{
+"ex": "pmr",
+"series": 3,
+"rir": "1-2",
+"descanso": 150,
+"reps": [
+6,
+8
+]
+},
+{
+"ex": "dominadas",
+"series": 4,
+"rir": "1-2",
+"descanso": 120,
+"reps": [
+6,
+10
+]
+},
+{
+"ex": "militar",
+"series": 3,
+"rir": "1-2",
+"descanso": 120,
+"reps": [
+6,
+8
+]
+},
+{
+"ex": "facepull",
+"series": 3,
+"rir": "0-1",
+"descanso": 60,
+"reps": [
+15,
+15
+]
+},
+{
+"ex": "remo_polea",
+"series": 2,
+"rir": "1-2",
+"descanso": 90,
+"reps": [
+10,
+12
+]
+},
+{
+"ex": "curlz",
+"series": 3,
+"rir": "0-1",
+"descanso": 75,
+"reps": [
+10,
+12
+]
+},
+{
+"ex": "copenhagen",
+"series": 3,
+"rir": null,
+"descanso": 60,
+"seg": 20,
+"nota": "20 s por lado."
+}
+]
+},
+{
+"id": "d3",
+"nombre": "Día 3",
+"sub": "Hipertrofia",
+"dia": "mie",
+"desc": "Piernas a 2–3 RIR. Superseries: hacé A y B seguidas y descansá después del par.",
+"items": [
+{
+"ex": "prensa",
+"series": 3,
+"rir": "2-3",
+"descanso": 120,
+"reps": [
+10,
+12
+]
+},
+{
+"ex": "inclinado",
+"series": 4,
+"rir": "1-2",
+"descanso": 105,
+"reps": [
+8,
+10
+]
+},
+{
+"ex": "jalon",
+"series": 3,
+"rir": "1-2",
+"descanso": 90,
+"reps": [
+10,
+12
+]
+},
+{
+"ex": "copenhagen",
+"series": 2,
+"rir": null,
+"descanso": 60,
+"seg": 20,
+"nota": "20 s por lado."
+},
+{
+"ex": "laterales",
+"series": 3,
+"rir": "0-1",
+"descanso": 90,
+"reps": [
+15,
+15
+],
+"ss": "S1"
+},
+{
+"ex": "pajaros",
+"series": 3,
+"rir": "0-1",
+"descanso": 90,
+"reps": [
+15,
+15
+],
+"ss": "S1"
+},
+{
+"ex": "martillo",
+"series": 2,
+"rir": "0-1",
+"descanso": 90,
+"reps": [
+12,
+12
+],
+"ss": "S2"
+},
+{
+"ex": "triceps",
+"series": 3,
+"rir": "0-1",
+"descanso": 90,
+"reps": [
+10,
+12
+],
+"ss": "S2"
+},
+{
+"ex": "talones_sent",
+"series": 2,
+"rir": "0-1",
+"descanso": 60,
+"reps": [
+15,
+15
+]
+}
+]
+}
+],
+"reglas": [
+[
+"Intensidad",
+"Semana 1: todo a 2–3 RIR. Después, básicos (sentadilla, rumano, banca, militar) a 1–2 RIR y nunca a la falla. Falla solo en máquinas y aislamientos, en la última serie. Piernas del Día 3 a 2–3 RIR."
+],
+[
+"Doble progresión",
+"Si el rango es 6–8, arrancás con un peso que te deja hacer 6. Cuando hacés el tope del rango en todas las series, la sesión siguiente subís el peso (+2,5 kg tren superior, +5 kg piernas y rumano) y volvés al piso del rango. La app te lo sugiere sola."
+],
+[
+"Descarga",
+"Cada 7–8 semanas, una semana con el mismo peso y la mitad de las series. La app te avisa."
+],
+[
+"Partidos",
+"48–72 h entre el Día 1 y el fútbol o el pádel. Nunca nórdico el día antes de jugar. No hagas el Día 1 el día después de jugar. Si jugás al día siguiente, Día 2 o 3 con piernas a 3 RIR. Marcá «Juego hoy / mañana / Jugué ayer» y la app ajusta la sesión."
+],
+[
+"Fijos",
+"Nórdico, Copenhagen y Pallof no rotan nunca: son el seguro para isquios, aductor y zona media."
+],
+[
+"Semana tipo",
+"Lunes Día 2 · Miércoles Día 3 · Viernes Día 1, a las 7. Cada sesión dura unos 70–75 min."
+],
+[
+"Calentamiento",
+"5–8 min de bici, remo o soga más movilidad de cadera, tobillo y hombro. Antes del primer básico: 3 series de aproximación (≈50% × 8, 70% × 4, 85% × 2)."
+]
+]
+}

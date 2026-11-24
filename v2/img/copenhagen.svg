@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 320">
+<rect width="480" height="320" fill="#1d232b"/>
+<rect x="0" y="284" width="480" height="36" fill="#2c343f"/>
+<rect x="330" y="196" width="140" height="20" rx="4" fill="#7b8aa0"/>
+<rect x="340" y="216" width="12" height="68" fill="#55606f"/><rect x="448" y="216" width="12" height="68" fill="#55606f"/>
+<g stroke="#ffb547" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" fill="none">
+ <path d="M150 278 L100 278 L100 238">
+ </path>
+ <path d="M100 238 L245 222 L400 204">
+  <animate attributeName="d" dur="3s" repeatCount="indefinite" keyTimes="0;0.3;0.55;0.85;1"
+   values="M100 238 L230 272 L400 204;M100 238 L245 222 L400 204;M100 238 L245 222 L400 204;M100 238 L230 272 L400 204;M100 238 L230 272 L400 204"/>
+ </path>
+ <path d="M245 222 L330 236" stroke="#d99230">
+  <animate attributeName="d" dur="3s" repeatCount="indefinite" keyTimes="0;0.3;0.55;0.85;1"
+   values="M230 272 L380 278;M245 222 L330 226;M245 222 L330 226;M230 272 L380 278;M230 272 L380 278"/>
+ </path>
+</g>
+<circle cx="72" cy="232" r="20" fill="#ffb547"/>
+<text x="20" y="40" fill="#fff" font-family="sans-serif" font-size="21" font-weight="bold">Copenhagen</text>
+<text x="20" y="66" fill="#cfd6de" font-family="sans-serif" font-size="15">Antebrazo en el piso, pierna de arriba en el banco.</text>
+<text x="20" y="88" fill="#cfd6de" font-family="sans-serif" font-size="15">Subí la cadera hasta quedar recto y sostené.</text>
+<text x="20" y="110" fill="#8d97a3" font-family="sans-serif" font-size="12">Ilustración esquemática propia</text>
+</svg>

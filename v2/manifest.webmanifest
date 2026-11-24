@@ -1,0 +1,30 @@
+{
+ "name": "Plan 18 · Cuaderno",
+ "short_name": "Plan 18",
+ "description": "Rutina de gym de 3 días: registro, progresión y técnica, sin conexión.",
+ "lang": "es-AR",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#F5F2E9",
+ "theme_color": "#F5F2E9",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
